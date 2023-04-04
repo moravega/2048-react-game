@@ -1,4 +1,4 @@
-Initial commif ot the 2048 react game :)
+Initial commit ot the 2048 react game :)
 
 # Getting Started with Create React App
 
